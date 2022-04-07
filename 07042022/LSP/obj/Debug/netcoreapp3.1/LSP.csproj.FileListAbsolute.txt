@@ -1,0 +1,13 @@
+C:\Users\Eagha\Desktop\CodeLessons\AP203\17. 07042022\07042022\LSP\bin\Debug\netcoreapp3.1\LSP.exe
+C:\Users\Eagha\Desktop\CodeLessons\AP203\17. 07042022\07042022\LSP\bin\Debug\netcoreapp3.1\LSP.deps.json
+C:\Users\Eagha\Desktop\CodeLessons\AP203\17. 07042022\07042022\LSP\bin\Debug\netcoreapp3.1\LSP.runtimeconfig.json
+C:\Users\Eagha\Desktop\CodeLessons\AP203\17. 07042022\07042022\LSP\bin\Debug\netcoreapp3.1\LSP.runtimeconfig.dev.json
+C:\Users\Eagha\Desktop\CodeLessons\AP203\17. 07042022\07042022\LSP\bin\Debug\netcoreapp3.1\LSP.dll
+C:\Users\Eagha\Desktop\CodeLessons\AP203\17. 07042022\07042022\LSP\bin\Debug\netcoreapp3.1\LSP.pdb
+C:\Users\Eagha\Desktop\CodeLessons\AP203\17. 07042022\07042022\LSP\obj\Debug\netcoreapp3.1\LSP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eagha\Desktop\CodeLessons\AP203\17. 07042022\07042022\LSP\obj\Debug\netcoreapp3.1\LSP.AssemblyInfoInputs.cache
+C:\Users\Eagha\Desktop\CodeLessons\AP203\17. 07042022\07042022\LSP\obj\Debug\netcoreapp3.1\LSP.AssemblyInfo.cs
+C:\Users\Eagha\Desktop\CodeLessons\AP203\17. 07042022\07042022\LSP\obj\Debug\netcoreapp3.1\LSP.csproj.CoreCompileInputs.cache
+C:\Users\Eagha\Desktop\CodeLessons\AP203\17. 07042022\07042022\LSP\obj\Debug\netcoreapp3.1\LSP.dll
+C:\Users\Eagha\Desktop\CodeLessons\AP203\17. 07042022\07042022\LSP\obj\Debug\netcoreapp3.1\LSP.pdb
+C:\Users\Eagha\Desktop\CodeLessons\AP203\17. 07042022\07042022\LSP\obj\Debug\netcoreapp3.1\LSP.genruntimeconfig.cache
